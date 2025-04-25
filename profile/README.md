@@ -1,4 +1,6 @@
-<img src=Logo.svg>
+![Melbot - Darkmode](profile/Logo.svg#gh-dark-mode-only)
+![Melbot - Lightmode](profile/LogoDark.svg#gh-light-mode-only)
+
 
 > [!IMPORTANT]
 > Mel-bot is currently closed source.
