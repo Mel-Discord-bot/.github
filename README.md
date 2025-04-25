@@ -1,4 +1,4 @@
-# Mel-bot GitHub Org <img src="profile/Mel.png" width="42" height="42">
+<img src=profile/Logo.svg>
 
 > [!IMPORTANT]
 > Mel-bot is currently closed source.
