@@ -1,5 +1,5 @@
-![Melbot - Darkmode](profile/Logo.svg#gh-dark-mode-only)
-![Melbot - Lightmode](profile/LogoDark.svg#gh-light-mode-only)
+![Melbot - Darkmode](Logo.svg#gh-dark-mode-only)
+![Melbot - Lightmode](LogoDark.svg#gh-light-mode-only)
 
 
 > [!IMPORTANT]
