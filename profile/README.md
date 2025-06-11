@@ -23,6 +23,7 @@ Mel is a Discord-bot, made as an alternative to Zoe-bot, but written entirely in
     - [Privacy Policy](https://melbot.cc/pp)
     - [ToS](https://melbot.cc/tos)
   - [Source](#) (Curently **not** public)
+  - [Website](https://github.com/Mel-Discord-bot/Mel-Website)
  
 ### Community Guidelines
 
